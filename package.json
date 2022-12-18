@@ -1,0 +1,41 @@
+{
+  "name": "theloading",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/opus": "^0.8.0",
+    "@discordjs/voice": "^0.14.0",
+    "@distube/spotify": "^1.4.2",
+    "ascii-table": "^0.0.9",
+    "body-parser": "^1.20.1",
+    "canvacord": "^5.4.8",
+    "discord-html-transcripts": "^3.1.2",
+    "discord-logs": "^2.2.1",
+    "discord-youtube": "^1.1.1",
+    "discord.js": "^14.7.1",
+    "discord.js-leveling": "^5.4.0",
+    "distube": "^4.0.4",
+    "ejs": "^3.1.8",
+    "express": "^4.18.2",
+    "express-session": "^1.17.3",
+    "ffmpeg": "^0.0.4",
+    "ffmpeg-static": "^4.4.1",
+    "fs": "^0.0.1-security",
+    "libsodium-wrappers": "^0.7.10",
+    "memorystore": "^1.6.7",
+    "moment-duration-format": "^2.3.2",
+    "mongoose": "^6.8.0",
+    "passport": "^0.6.0",
+    "passport-discord": "^0.1.4"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}

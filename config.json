@@ -1,0 +1,11 @@
+{
+    "Token": "Your bot token",
+    "mongodb": "Your database",
+    "Client_ID": "Your bot Client_ID",
+    "Client_Secret": "Your bot Client_Secret",
+    "everyone": "everyone role",
+    "ticketParent": "the ticket category where you want it to make the channel for the ticket",
+    "openTicket": "this is not needed becuase I did not do a panel I did /support",
+    "tanscripts": "tanscripts for tickets",
+    "port": "80"
+}
